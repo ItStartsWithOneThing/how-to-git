@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Git dlya lohov, icq dlya pacanov, tik-tok dlyz petuxov</h1>'
