@@ -1,3 +1,3 @@
-# The Lords Of The Rings
+# Junior and Git\GitHub : Starter pack
 
-Cast
+How to git by console and GitHub
